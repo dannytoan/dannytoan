@@ -1,4 +1,8 @@
 ### Hi there, I'm Danny (He/Him)! 👋
+[![Website Badge](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://dannytoan.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannytoan/)
+[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/danny-t-2)
+
 
 <!--
 **dannytoan/dannytoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,6 +39,3 @@ Glad to see you here!
 <br/>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-[![Website Badge](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://dannytoan.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dannytoan/)
-[![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/danny-t-2)

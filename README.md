@@ -1,4 +1,4 @@
-### Hi there, I'm Danny! 👋
+### Hi there, I'm Danny (He/Him)! 👋
 
 <!--
 **dannytoan/dannytoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dannytoan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 
 Plants 🌱, coffee ☕, matcha 🍵, and fashion enthusiast ✨
 
@@ -28,5 +28,9 @@ Portfolio site: dannytoan.github.io/
 
 For employment opportunities, email: dannytoan1@gmail.com
 
-Glad to see you here!
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dannytoan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+Glad to see you here! 
+<br/>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)

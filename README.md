@@ -24,7 +24,7 @@ I am a multi-faceted person -- but most importantly, I am a versatile Full Stack
 Coming from a Fashion Merchandising and Design background, critical thinking, problem solving, and creativity are consistently my most valued skills that are easily transferrable to software engineering and just about anything I set my mind to. I am always motivated to learn new skills and helping others succeed as well as making the world a better place!
 
 
-Portfolio site: dannytoan.github.io/
+[Portfolio site](https://dannytoan.github.io/)
 
 For employment opportunities, email: dannytoan1@gmail.com
 
